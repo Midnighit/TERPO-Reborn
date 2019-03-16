@@ -1,16 +1,16 @@
 {
-	"name": "TERPO-Reborn 0.4.24",
-	"description": "Server mod for The Exiled-RP server. Combines some little tweaks into one mod.\n- HUD doesn't hide when entering vanity camera anymore. It can still be hidden manually.\n- Allows players to switch between characters if an additional SQL component is installed to the db\n- Allows to lock and unlock containers, doors and crafting stations",
+	"name": "TERPO-Reborn 1.0.0",
+	"description": "Server mod for The Exiled-RP server. Not recommended for use for anyone not playing on that server.",
 	"changeNote": "",
 	"author": "Midnight",
 	"authorUrl": "",
-	"versionMajor": 0,
-	"versionMinor": 4,
-	"versionBuild": 24,
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "",
+	"steamPublishedFileId": "1683899944",
 	"steamVisibility": 1,
 	"folderName": "TERPO-Reborn",
-	"revisionNumber": 125304,
-	"snapshotId": 20672
+	"revisionNumber": 125790,
+	"snapshotId": 20708
 }
