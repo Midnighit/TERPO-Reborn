@@ -1,12 +1,22 @@
 {
+<<<<<<< HEAD
 	"name": "TERPO-Reborn 1.0.2",
 	"description": "Server mod for The Exiled-RP server. Not recommended for use for anyone not playing on that server.",
 	"changeNote": "",
+=======
+	"name": "TERPO-Reborn 1.0.3",
+	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
+	"changeNote": "- Added switch to toggle hiding the UI in vanity camera on and off.",
+>>>>>>> development
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
+<<<<<<< HEAD
 	"versionBuild": 2,
+=======
+	"versionBuild": 3,
+>>>>>>> development
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1683899944",
 	"steamVisibility": 1,
