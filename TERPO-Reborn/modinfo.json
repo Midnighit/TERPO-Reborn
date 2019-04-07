@@ -1,16 +1,16 @@
 {
-	"name": "TERPO-Reborn 1.0.4",
+	"name": "TERPO-Reborn 1.1.1",
 	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
-	"changeNote": "",
+	"changeNote": "- Took a few additional measures to ensure char switch works correct\n- Added debug info panel",
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 0,
-	"versionBuild": 4,
+	"versionMinor": 1,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1683899944",
-	"steamVisibility": 2,
+	"steamVisibility": 0,
 	"folderName": "TERPO-Reborn",
-	"revisionNumber": 125790,
-	"snapshotId": 20708
+	"revisionNumber": 126893,
+	"snapshotId": 20805
 }
