@@ -1,16 +1,16 @@
 {
-	"name": "TERPO-Reborn 1.3.4",
+	"name": "TERPO-Reborn 1.4.0",
 	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
-	"changeNote": "- Fixed honey still stacking over 10k",
+	"changeNote": "- Warpaints no longer grant attribute bonuses. To compensate for the lost attribute points characters will earn 30 addition points by level 60.\n- Further lowered stacksize for automatically generated consumables (fish, grubs, honey etc.) to 1000",
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 3,
-	"versionBuild": 4,
+	"versionMinor": 4,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1683899944",
 	"steamVisibility": 0,
 	"folderName": "TERPO-Reborn",
-	"revisionNumber": 128262,
-	"snapshotId": 20873
+	"revisionNumber": 130640,
+	"snapshotId": 20988
 }
