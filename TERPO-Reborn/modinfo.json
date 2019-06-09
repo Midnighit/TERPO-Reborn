@@ -1,7 +1,7 @@
 {
 	"name": "TERPO-Reborn 1.4.2",
 	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
-	"changeNote": "- Changed and balanced attribute bonuses on weapons in order to shoehorn them less into specific legendary weapons.\n- Added a hide bed",
+	"changeNote": "- Changed and balanced attribute bonuses on weapons to allow for a greater varity of weapons to be viable.\n- Added a hide bed.",
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
