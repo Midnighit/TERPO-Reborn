@@ -1,7 +1,7 @@
 {
 	"name": "TERPO-Reborn 1.4.3",
 	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
-	"changeNote": "- Removed weapon attribute bonuses again\n- Added the option to have more Admin/DM slots\n- Slots will be labeled with the name of the character now",
+	"changeNote": "- Changed attribute bonuses to weapons and shields again. Only flawless weapons will be buffed to +3 in one stat, all other weapons retain their vanilla attribute bonuses (if any)\n- Added the option to have more Admin/DM slots\n- Slots will be labeled with the name of the character now",
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
