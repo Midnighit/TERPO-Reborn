@@ -1,16 +1,16 @@
 {
-	"name": "TERPO-Reborn 1.4.4",
+	"name": "TERPO-Reborn 1.4.8",
 	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
-	"changeNote": "- Fixed the Bed - Hide that went MIA during the last update",
+	"changeNote": "- Updated to the latest itemtable for increased stacksizes and recompiled the mod with the new devKit.",
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 4,
-	"versionBuild": 4,
+	"versionBuild": 8,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1683899944",
 	"steamVisibility": 0,
 	"folderName": "TERPO-Reborn",
-	"revisionNumber": 139474,
-	"snapshotId": 21313
+	"revisionNumber": 188524,
+	"snapshotId": 22834
 }
