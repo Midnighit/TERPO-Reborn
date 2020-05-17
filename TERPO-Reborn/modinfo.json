@@ -1,16 +1,16 @@
 {
-	"name": "TERPO-Reborn 1.4.9",
-	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com",
-	"changeNote": "- Updated to the latest itemtable for increased stacksizes.\n- Added a flavor item.",
+	"name": "TERPO-Reborn 1.4.12",
+	"description": "Server mod for The Exiled-RP server. DISCLAIMER: The character switch feature only works with an additional component on our server.\n\nHome server of the mod: https://exiledce.enjin.com\nJoin our discord: https://discord.gg/87AX98Y",
+	"changeNote": "- Recompile with the latest devKit\n- Removed the option to prevent UI from hiding in vanity cam",
 	"author": "Midnight",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 4,
-	"versionBuild": 9,
+	"versionBuild": 12,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1683899944",
 	"steamVisibility": 0,
 	"folderName": "TERPO-Reborn",
-	"revisionNumber": 188524,
-	"snapshotId": 22834
+	"revisionNumber": 219255,
+	"snapshotId": 24964
 }
