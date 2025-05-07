@@ -6,13 +6,13 @@
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 7,
-	"versionBuild": 26,
+	"versionBuild": 27,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1683899944",
 	"steamTestLivePublishedFileId": "3030453469",
 	"steamVisibility": 0,
 	"folderName": "TERPO-Reborn",
-	"revisionNumber": 1311351,
-	"snapshotId": 43706,
+	"revisionNumber": 1383520,
+	"snapshotId": 43820,
 	"fileSize": -2
 }
